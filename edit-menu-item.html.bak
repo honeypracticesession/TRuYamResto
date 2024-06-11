@@ -1,0 +1,56 @@
+
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href ="truYam.css"></link>
+ <link rel ="stylesheet" href ="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+  <title>Items</title>
+ </head>
+ <body>
+ <div id = "sec1">
+ <ul>
+	<li id="logo">truYum</li>
+	<li><h1><i class="fa fa-cutlery"></i></h1><li>	
+	<li id ="m"><a  href="" >Menu</a></li>
+	<ul>
+ </div>
+  <div id ="sec">
+  <div id="mids">
+  <br></br>
+  <label id ="mi-e">Edit Menu Item</label>
+<br></br>
+<label id ="nam" class="mov">Name</label>
+<br>
+<input id ="ipl"></input>
+<br></br>
+<table id ="tb">
+<tr>
+	<td class="ta" >Price(Rs.)</td>
+	<td class="ta" >Active</td>
+	<td class="ta" >Date of Launch </td>
+	<td class="ta" >Category</td>
+</tr>
+<tr>
+	<td class="fix"><input class="fix-p" ></input></td>
+	<td class="fix-r"><input  type="radio" name="ab"></input>Yes<input type="radio" name="ab">No</input></td>
+	<td class="fix"><input></input></td>
+	<td class="fix"><select>
+		<option>Starters</option>
+		<option>Main Course</option>
+		<option>Dessert</option>
+		<option>Drinks</option>
+	</select></td>
+</tr>
+</table>
+<input class="cb" type ="checkbox"></input>
+<big>Free Delivery</big>
+<br></br>
+<input class="btn" type ="button" value ="save"></input>
+</div>
+  </div>
+  <div id ="sec2">
+	<ul id ="copy"><li >Copyright &copy; 2019<li></ul>
+ </div>
+
+  
+ </body>
+</html>

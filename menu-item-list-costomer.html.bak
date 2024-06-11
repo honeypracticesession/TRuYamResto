@@ -1,0 +1,62 @@
+
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href ="truYam.css"></link>
+ <link rel ="stylesheet" href ="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+
+  <title>Customer</title>
+ </head>
+ <body>
+
+ <div id = "sec1">
+ <ul>
+	<li id="logo">truYum</li>
+	<li><i class="fa fa-utensils"></i><li>	
+	<li id ="m"><a >Manu</a></li>
+	<li  id ="c" ><a >Cart</a></li>
+	<ul>
+ </div>
+  <div id ="sec">
+  <br></br>
+  <label id ="mi-c">Menu Item</label>
+  <table>
+  <tr>
+			<td  class ="td-lft"  ><label class ="head">Name</label></td>
+			<td class ="td" ><label class ="head">Free Delivery</label></td>
+			<td  class ="td-rt"  ><label  class ="head">Price</label></td>
+			<td class ="td" ><label class ="head">Category</label></td>
+			<td class ="td" ><label class ="head">Action</label></td>
+  </tr>
+  <tr>
+		<td  class ="td-lft" ><label>Sandwich</label></td>
+		<td class ="td" ><label>Yes</label></td>
+		<td  class ="td-rt" ><label>Rs. 99.00</label></td>
+		<td class ="td" ><label>Main Course</label></td>
+		<td class ="td" ><label><a >Add to Cart</a></label></td>
+
+	
+	
+  </tr>
+  <tr>
+		<td class ="td-lft"  ><label>Burger</label></td>
+		<td class ="td" ><label>No</label></td>
+		<td  class ="td-rt" ><label>Rs. 129.00</label></td>
+		<td class ="td" ><label>Main Course</label></td>
+		<td class ="td" ><label><a>Add to Cart</a></label></td>
+  </tr>
+  <tr>
+	<td  class ="td-lft" ><label>Pizza</label></td>
+	<td class ="td" ><label>No</label></td>
+	<td class ="td-rt"  ><label>Rs. 149.00</label></td>
+	<td class ="td" ><label>Main Course</label></td>
+	<td class ="td" ><label><a>Add to Cart</a></label></td>
+  </tr>
+   
+  </table>
+   </div>
+  <div id ="sec2">
+	<ul id ="copy"><li >Copyright &copy; 2019<li></ul>
+ </div>
+
+ </body>
+</html>

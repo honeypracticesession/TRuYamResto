@@ -1,0 +1,144 @@
+i {color:white;
+					padding-left:20px;
+					padding-top:20px;
+					}
+#sec1	{
+					height:15%;
+					width:100%;
+					background-color:blue;
+					float:top
+			}
+#sec2	{
+					height:15%;
+					width:100%;
+					background-color:gray;
+		    		float:bottom
+			}
+
+#sec	{
+			height:70%;
+			width:100%;
+		}
+.midd{margin-top:69px}
+td {
+		padding-left:60px;
+		padding-top:25px;
+		text-align:center;
+		font-size:25px
+	}
+.td	{
+			padding-left:140px;
+			padding-top:35px
+		}
+.td-lft	{
+			padding-left:140px;
+			padding-top:30px;
+			text-align:left
+			}
+.td-rt	{
+			padding-left:140px;
+			padding-top:30px;
+			text-align:right
+			}
+.td-l{text-align:left;
+padding-left:270px}
+.head	{
+				
+				font-size:30px;
+				font-weight:bold
+			}
+
+#mi	 {
+			font-size:40px;
+			padding-left:60px
+		}
+#mi-c	{
+				font-size:40px;
+				padding-left:140px
+			}
+#mi-e	{
+				font-size:40px;
+				padding-left:100px
+			}
+.lft {text-align:left}
+.rt {text-align:right}
+
+ul		{
+			display:flex;
+			list-style:none
+			}
+#m	{
+			
+			padding-left:1050px;
+			padding-top:35px;
+			font-size:30px;
+			color:white
+		}
+#c		{
+			color:white;
+			padding-left:130px;
+			padding-top:35px;
+			font-size:30px
+		}
+.w{color:white}
+	
+#logo	{		color:white;
+					padding-left:10px;
+					padding-top:35px;
+					font-size:30px	
+			}
+
+#copy	{
+				margin:0px;
+				padding-top:45px;
+				font-size:20px
+			}
+#ipl	{
+			width:1000px;
+			height:40px;
+			margin-left:100px;
+			font-size:25px
+		}
+.mov		{
+				margin-left:100px
+			}
+	#tb {margin-left:38px}
+	#nam{font-size:25px}
+	.fix{padding-top:0px}
+	.fix-r{padding-top:0px;
+			font-size:22px		}
+.fix-p{
+			width:100px;
+			text-align:right	}
+	.ta{	text-align:left;
+			padding-top:30px	;
+			font-size:20px}
+select {width:150px;
+			height:25px}
+	.cb		{
+				margin-left:100px;
+				margin-top:40px;
+				height:20px;
+				width:20px
+			}
+.btn	{
+				margin-top:30px;
+				margin-left:100px;
+				height:50px;
+				width:100px;
+				background-color:blue;
+				color:white
+			}
+#msg{color:green;
+			font-size:25px	;
+			font-weight:bold;
+			padding-left:60px;
+			padding-top:40px;
+			list-style:none}
+#notf	{
+			color:green;
+			font-size:25px	;
+			font-weight:bold;
+			padding-left:550px;
+			padding-top:40px;
+			list-style:none		}
